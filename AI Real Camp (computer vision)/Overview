@@ -1,0 +1,19 @@
+🦺 #Safety Gear Detection Challenge
+In hazardous work environments, personal protective equipment is essential for ensuring worker safety. Detecting the presence of safety gear in images can help enforce compliance and prevent workplace accidents.
+
+🚀 The Challenge
+Your task is to build a multi-label image classification model that can identify people and detect whether they are wearing the required safety equipment. Each image may contain multiple labels, representing:
+
+✅ Person
+✅ Vest
+✅ Blue Hat
+✅ Red Hat
+✅ White Hat
+✅ Yellow Hat
+
+This is a multi-label classification problem, meaning an image can have one or more labels at the same time.
+
+🏆 Your Mission
+You'll preprocess the data, extract meaningful features, and train a deep learning or machine learning model to accurately classify safety gear in images.
+
+🔍 Can you build a model that ensures workplace safety with high accuracy? Let’s find out! 🚀
